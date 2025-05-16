@@ -1,31 +1,34 @@
 import type { Metadata } from 'next'
 import ProductosClient from './productosClient'
-import productos from '../../app/data/products.json';
+import { allProducts } from '@/app/utils/products'
 
 export const metadata: Metadata = {
-  title: 'Promacson – Nuestros Productos',
-  description: 'Explora nuestro amplio catálogo de material de curación profesional: vendajes, gasas, antisépticos, instrumental y más.',
+  title: 'Promacson – Catálogo de Productos Médicos y de Curación',
+  description: 'Descubre nuestra gama de productos médicos: cuidado de heridas, ortopedia, medias de compresión, sondas, dispositivos médicos y más.',
   keywords: [
+    'productos médicos',
     'material de curación',
-    'vendajes',
-    'gasas',
-    'antisépticos',
+    'medias de compresión',
+    'cuidado de heridas',
+    'ortopedia',
+    'sillas de ruedas',
+    'sondas',
     'instrumental médico',
-    'protección',
-    'Promacson'
+    'Promacson',
+    'tiendapromacson'
   ],
-  authors: [{ name: 'Promacson', url: 'https://tudominio.com/nosotros' }],
+  authors: [{ name: 'Promacson', url: 'https://tiendapromacson.com/nosotros' }],
   openGraph: {
-    title: 'Promacson – Nuestros Productos',
-    description: 'Explora nuestro amplio catálogo de material de curación profesional: vendajes, gasas, antisépticos, instrumental y más.',
-    url: 'https://tudominio.com/productos',
+    title: 'Promacson – Catálogo de Productos Médicos y de Curación',
+    description: 'Explora nuestro catálogo de confianza en Promacson: productos médicos profesionales y soluciones para el cuidado de la salud.',
+    url: 'https://tiendapromacson.com/productos',
     siteName: 'Promacson',
     images: [
       {
-        url: 'https://tudominio.com/images/og-productos.jpg',
+        url: 'https://tiendapromacson.com/images/og-productos.jpg',
         width: 1200,
         height: 630,
-        alt: 'Catálogo de productos Promacson'
+        alt: 'Catálogo de productos médicos Promacson'
       }
     ],
     locale: 'es_ES',
@@ -33,9 +36,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Promacson – Nuestros Productos',
-    description: 'Explora nuestro amplio catálogo de material de curación profesional: vendajes, gasas, antisépticos, instrumental y más.',
-    images: ['https://tudominio.com/images/twitter-productos.jpg']
+    title: 'Promacson – Catálogo de Productos Médicos',
+    description: 'Conoce los productos especializados que Promacson tiene para ti: calidad, confianza y atención profesional.',
+    images: ['https://tiendapromacson.com/images/twitter-productos.jpg']
   },
   other: {
     viewport: 'width=device-width, initial-scale=1',
@@ -44,6 +47,5 @@ export const metadata: Metadata = {
 }
 
 export default function Page() {
-    const productosData: any[] = productos
-    return <ProductosClient products={productosData} />
-  }
+  return <ProductosClient products={allProducts} />
+}

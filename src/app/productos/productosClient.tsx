@@ -8,7 +8,7 @@ interface Product {
   id: string
   slug: string
   name: string
-  image: string
+  images: string[]
   category: string
 }
 
@@ -30,7 +30,17 @@ export default function ProductosClient({ products }: Props) {
     (p) => selectedCat === 'todas' || p.category === selectedCat
   )
 
-  const categories = ['todas', 'vendajes-y-gasas', 'antispeticos', 'instrumental', 'proteccion']
+  const categories = [
+    'todas',
+    'Cuidado de Heridas',
+    'Compresión y Vascular',
+    'Ortopedia y Rehabilitación',
+    'Movilidad y Ayudas Técnicas',
+    'Protección e Higiene',
+    'Dispositivos Médicos',
+    'Incontinencia y Sondas'
+  ]
+  
 
   return (
     <main className="container mx-auto px-6 py-16 space-y-12">
@@ -64,12 +74,7 @@ export default function ProductosClient({ products }: Props) {
               className="group"
             >
               <div className="relative h-40 rounded-lg overflow-hidden shadow-sm group-hover:shadow-md transition-shadow">
-                <Image
-                  src={p.image}
-                  alt={p.name}
-                  fill
-                  className="object-cover"
-                />
+              <Image src={p.images[0]} alt={p.name} fill className="object-cover" />
               </div>
               <h3 className="mt-2 font-medium text-gray-800 group-hover:text-blue-600">
                 {p.name}
@@ -89,12 +94,7 @@ export default function ProductosClient({ products }: Props) {
               className="group"
             >
               <div className="h-32 relative rounded-md overflow-hidden shadow-sm group-hover:shadow-lg transition-shadow">
-                <Image
-                  src={p.image}
-                  alt={p.name}
-                  fill
-                  className="object-cover"
-                />
+              <Image src={p.images[0]} alt={p.name} fill className="object-cover" />
               </div>
               <p className="mt-1 text-sm text-gray-700 group-hover:text-blue-600">
                 {p.name}

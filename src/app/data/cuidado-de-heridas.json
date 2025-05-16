@@ -1,0 +1,307 @@
+[
+  {
+    "id": "1",
+    "slug": "cutimed-protect-spray",
+    "name": "CUTIMED PROTECT SPRAY",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/cutimedspray.png",
+      "/images/cuidado-de-heridas/cutimedspray2.png"
+    ],
+    "description": "Cutimed PROTECT Spray es un protector cutáneo en aerosol que forma una película transparente, flexible e impermeable. Protege la piel intacta o irritada frente a fluidos corporales, fricción y adhesivos médicos, ayudando a prevenir la maceración y el deterioro cutáneo alrededor de heridas.",
+    "keywords": [
+      "cutimed protect",
+      "protector cutáneo",
+      "barrera cutánea",
+      "spray para heridas",
+      "protección perilesional",
+      "spray sin alcohol",
+      "cuidado de heridas"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Forma una barrera impermeable de hasta 96 horas",
+      "Permite la transpiración de la piel",
+      "Flexible, no se agrieta con el movimiento",
+      "Fácil de aplicar en aerosol",
+      "Sin alcohol: no irrita la piel",
+      "Ideal para piel perilesional o propensa a daños por adhesivos"
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "hypafix-transparent-10x10",
+    "name": "Hypafix Transparent 10cm x 10m",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/hypafix-transparent.png"
+    ],
+    "description": "Hypafix® Transparent es un apósito adhesivo de película de poliuretano transparente, impermeable y transpirable. Diseñado para fijar de manera segura apósitos, catéteres y dispositivos médicos, permite la inspección visual de la herida sin necesidad de retirar el vendaje, protegiendo eficazmente contra agua, bacterias y contaminantes externos.",
+    "keywords": [
+      "Hypafix Transparent",
+      "apósito transparente",
+      "fijación de apósitos",
+      "película impermeable",
+      "protección de heridas",
+      "BSN Medical",
+      "vendaje adhesivo",
+      "cuidado de heridas"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Película de poliuretano transparente y flexible",
+      "Impermeable y barrera contra bacterias",
+      "Permite la transpiración de la piel, reduciendo el riesgo de maceración",
+      "Adhesivo hipoalergénico, apto para pieles sensibles",
+      "Fácil de aplicar gracias a su sistema de aplicación con línea roja",
+      "Adaptable a contornos corporales, incluso en articulaciones",
+      "Permite la inspección visual sin retirar el apósito",
+      "Libre de látex y radio-transparente"
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "hypafix-5cmx10m",
+    "name": "Hypafix 5cm x 10m",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/hypafix5_5.png"
+    ],
+    "description": "Hypafix es una cinta adhesiva no tejida, hipoalergénica y transpirable, ideal para la fijación de apósitos en áreas pequeñas o de difícil acceso. Su flexibilidad permite adaptarse a zonas móviles como dedos y muñecas sin restringir el movimiento.",
+    "keywords": [
+      "Hypafix 5cm",
+      "cinta adhesiva médica",
+      "fijación de apósitos",
+      "cuidado de heridas",
+      "BSN Medical"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Adhesivo acrílico hipoalergénico",
+      "Transpirable y libre de látex",
+      "Fácil de cortar y aplicar",
+      "Ideal para zonas pequeñas y articulaciones"
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "hypafix-10cmx10m",
+    "name": "Hypafix 10cm x 10m",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/hypafix10_10.png"
+    ],
+    "description": "Hypafix de 10cm de ancho es perfecto para la fijación segura de apósitos en áreas medianas del cuerpo. Su material no tejido y elástico se adapta cómodamente a la piel, permitiendo libertad de movimiento y reduciendo el riesgo de irritaciones.",
+    "keywords": [
+      "Hypafix 10cm",
+      "cinta médica hipoalergénica",
+      "fijación de apósitos medianos",
+      "vendaje adhesivo",
+      "BSN Medical"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Material elástico y transpirable",
+      "Adhesivo suave para la piel",
+      "Fácil de cortar a medida",
+      "Adecuado para áreas medianas del cuerpo"
+    ]
+  },
+  {
+    "id": "5",
+    "slug": "hypafix-15cmx10m",
+    "name": "Hypafix 15cm x 10m",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/hypafix15x15.png"
+    ],
+    "description": "La cinta Hypafix de 15cm ofrece una cobertura amplia para la fijación de apósitos en zonas extensas o articulaciones grandes. Su diseño flexible y adhesivo hipoalergénico garantizan una sujeción segura sin comprometer la comodidad del paciente.",
+    "keywords": [
+      "Hypafix 15cm",
+      "cinta adhesiva amplia",
+      "fijación de apósitos grandes",
+      "vendaje médico",
+      "BSN Medical"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Amplia cobertura para áreas grandes",
+      "Adhesivo que no irrita la piel",
+      "Permite la transpiración cutánea",
+      "Ideal para rodillas, hombros y espalda"
+    ]
+  },
+  {
+    "id": "6",
+    "slug": "cutimed-sorbact-7x9",
+    "name": "Cutimed Sorbact 7x9 cm",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/sorbact.png"
+    ],
+    "description": "Cutimed Sorbact 7x9 cm es un apósito estéril que utiliza tecnología de unión hidrofóbica para eliminar bacterias y hongos de la herida sin liberar agentes químicos, promoviendo una cicatrización segura y efectiva.",
+    "keywords": [
+      "Cutimed Sorbact",
+      "apósito antibacteriano",
+      "cuidado de heridas",
+      "apósito 7x9 cm",
+      "BSN Medical",
+      "apósito sin antibióticos",
+      "apósito para úlceras",
+      "apósito para heridas infectadas"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Tecnología Sorbact: unión física de bacterias y hongos sin agentes químicos",
+      "Eficaz contra MRSA y VRE",
+      "No libera endotoxinas ni promueve resistencias bacterianas",
+      "Compatible con terapia de compresión y NPWT",
+      "Apto para heridas superficiales y profundas con exudado moderado",
+      "Sin riesgo de alergias ni citotoxicidad",
+      "Uso seguro en niños, embarazadas y lactantes"
+    ]
+  },
+  {
+    "id": "7",
+    "slug": "cutimed-hydro-l",
+    "name": "Cutimed Hydro L",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/hydrol0.png",
+      "/images/cuidado-de-heridas/hydrol.png",
+      "/images/cuidado-de-heridas/hydrol1.png"
+    ],
+    "description": "Cutimed Hydro L es un apósito hidrocoloide ultradelgado que mantiene un ambiente húmedo ideal para la cicatrización de heridas superficiales. Su diseño flexible y resistente al agua protege eficazmente frente a bacterias y contaminantes externos.",
+    "keywords": [
+      "Cutimed Hydro L",
+      "apósito hidrocoloide",
+      "heridas superficiales",
+      "cuidado de heridas",
+      "BSN Medical",
+      "hidrocoloide 10x10",
+      "hidrocoloide 15x15"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Disponible en medidas de 10x10 cm y 15x15 cm",
+      "Ultradelgado y flexible para mayor comodidad",
+      "Resistente al agua y permeable al vapor",
+      "Autoadhesivo, no requiere fijación adicional",
+      "Fácil de aplicar y retirar sin dolor",
+      "Ideal para heridas con exudado leve"
+    ]
+  },
+  {
+    "id": "8",
+    "slug": "cutimed-hydro-b",
+    "name": "Cutimed Hydro B",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/hydrob.png",
+      "/images/cuidado-de-heridas/cutimed-hydro-b-15x15.jpg"
+    ],
+    "description": "Cutimed Hydro B es un apósito hidrocoloide con una capa absorbente de espuma, ideal para heridas con exudado leve a moderado. Promueve una cicatrización más rápida al mantener la humedad óptima y proteger contra bacterias externas.",
+    "keywords": [
+      "Cutimed Hydro B",
+      "apósito hidrocoloide con espuma",
+      "cuidado de heridas",
+      "heridas exudativas",
+      "BSN Medical",
+      "hidrocoloide absorbente"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Absorción mejorada gracias a su capa de espuma",
+      "Mantiene ambiente húmedo para cicatrización eficiente",
+      "Protección frente a bacterias y contaminantes",
+      "Diseño delgado y discreto",
+      "Fácil de aplicar y remover sin dolor",
+      "Disponible en tamaños 10x10 cm y 15x15 cm"
+    ]
+  },
+  {
+    "id": "9",
+    "slug": "cutimed-gelocast",
+    "name": "Cutimed Gelocast (Gota de Una)",
+    "category": "Compresión y Vascular",
+    "images": [
+      "/images/cuidado-de-heridas/gelocast.webp"
+    ],
+    "description": "Cutimed Gelocast es una venda impregnada con óxido de zinc diseñada para ofrecer compresión terapéutica y alivio en pacientes con úlceras venosas, dermatitis o linfedema. Su fórmula ayuda a calmar la piel, reducir la inflamación y mejorar la circulación.",
+    "keywords": [
+      "Cutimed Gelocast",
+      "gota de una",
+      "venda con óxido de zinc",
+      "úlceras venosas",
+      "linfedema",
+      "vendaje compresivo",
+      "BSN Medical"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Impregnada con óxido de zinc para efecto calmante",
+      "Ofrece compresión ligera y constante",
+      "Ideal para úlceras venosas y dermatitis",
+      "Alivia el dolor e inflamación",
+      "Listo para usar, aplicación rápida",
+      "Compatible con vendas de compresión secundaria"
+    ]
+  },
+  {
+    "id": "10",
+    "slug": "cutimed-alginate",
+    "name": "Cutimed Alginate",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/alginato10x10.webp",
+      "/images/cuidado-de-heridas/alginato10x20.webp"
+    ],
+    "description": "Cutimed Alginate es un apósito de alginato de calcio y sodio diseñado para el tratamiento de heridas con exudado moderado a abundante. Al contacto con el exudado, se transforma en un gel suave que mantiene un ambiente húmedo, favoreciendo la cicatrización y permitiendo una retirada atraumática.",
+    "keywords": [
+      "Cutimed Alginate",
+      "apósito de alginato",
+      "heridas exudativas",
+      "apósito absorbente",
+      "cuidado avanzado de heridas",
+      "gel para heridas",
+      "BSN Medical"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Alta capacidad de absorción",
+      "Forma un gel que no daña el tejido",
+      "Ideal para heridas cavitadas o profundas",
+      "Biocompatible y fácil de usar",
+      "Disponible en medidas de 10x10cm y 10x20cm"
+    ]
+  },
+  {
+    "id": "11",
+    "slug": "cutimed-eye-occlusor",
+    "name": "Cutimed Eye Occlusor",
+    "category": "Cuidado de Heridas",
+    "images": [
+      "/images/cuidado-de-heridas/eyeoc.png"
+    ],
+    "description": "Cutimed Eye Occlusor es un apósito ocular estéril diseñado para tratamientos oculares como la oclusión terapéutica en casos de ambliopía, estrabismo u otras afecciones oftalmológicas. Su forma anatómica y material suave permiten un ajuste cómodo sobre el área periocular sin causar irritación.",
+    "keywords": [
+      "cutimed eye occlusor",
+      "apósito ocular",
+      "oclusión ocular",
+      "parche para ambliopía",
+      "tratamiento estrabismo",
+      "oclusor estéril",
+      "BSN Medical"
+    ],
+    "brand": "BSN Medical",
+    "features": [
+      "Diseño anatómico para ajuste cómodo",
+      "Material hipoalergénico y transpirable",
+      "Ideal para terapias de ambliopía y estrabismo",
+      "Fácil aplicación y remoción sin dolor",
+      "Alta tolerancia dérmica, incluso en uso prolongado"
+    ]
+  }
+  
+  
+]

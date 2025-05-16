@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "slug": "actimove-mitella-cabestrillo",
+        "name": "Actimove Mitella Cabestrillo",
+        "category": "Ortopedia y Rehabilitación",
+        "images": [
+            "/images/ortopedia/cabestrillo.webp",
+            "/images/ortopedia/cabestrillo2.webp"
+        ],
+        "description": "El Actimove Mitella es un cabestrillo ortopédico diseñado para ofrecer soporte cómodo y seguro al brazo y hombro en casos de lesiones, fracturas o cirugías. Fabricado con materiales suaves, transpirables y ajustables, proporciona una sujeción eficaz reduciendo el estrés y la fatiga del miembro afectado.",
+        "keywords": [
+            "cabestrillo",
+            "actimove mitella",
+            "soporte para brazo",
+            "cabestrillo ortopédico",
+            "inmovilizador de hombro",
+            "ferula de brazo",
+            "ortopedia"
+        ],
+        "brand": "Actimove",
+        "features": [
+            "Diseño anatómico para mayor comodidad",
+            "Correa ajustable con cierre de velcro",
+            "Material suave y transpirable para uso prolongado",
+            "Adecuado para brazo derecho o izquierdo",
+            "Recomendado post-operatorio o para lesiones leves a moderadas"
+        ]
+    },
+    {
+        "id": "2",
+        "slug": "correa-rodilla-daosport",
+        "name": "Correa para Rodilla Daosport",
+        "category": "Ortopedia y Rehabilitación",
+        "images": [
+          "/images/ortopedia/correarodilla.webp",
+          "/images/ortopedia/correarodilla2.png"
+        ],
+        "description": "La correa para rodilla Daosport proporciona compresión dirigida al tendón rotuliano, aliviando el dolor asociado con la tendinitis rotuliana, el síndrome de Osgood-Schlatter y otras afecciones comunes de la rodilla. Ideal para actividades deportivas o uso diario.",
+        "keywords": [
+          "correa para rodilla",
+          "faja rotuliana",
+          "tendinitis rotuliana",
+          "soporte de rodilla",
+          "daosport rodilla"
+        ],
+        "brand": "Daosport",
+        "features": [
+          "Compresión ajustable al tendón rotuliano",
+          "Diseño ligero y discreto",
+          "Cierre de velcro para ajuste personalizado",
+          "Ideal para uso deportivo o prolongado"
+        ]
+      },
+      {
+        "id": "3",
+        "slug": "correa-codo-tenista-daosport",
+        "name": "Correa Reforzada para Codo de Tenista Daosport",
+        "category": "Ortopedia y Rehabilitación",
+        "images": [
+          "/images/ortopedia/tenista.jpg"
+        ],
+        "description": "La correa reforzada para codo de tenista Daosport está diseñada para aliviar el dolor y reducir la tensión muscular en casos de epicondilitis lateral (codo de tenista) y epicondilitis medial (codo de golfista). Su diseño ergonómico brinda compresión dirigida sin restringir el movimiento.",
+        "keywords": [
+          "correa para codo",
+          "codo de tenista",
+          "epicondilitis",
+          "daosport codo",
+          "soporte de codo"
+        ],
+        "brand": "Daosport",
+        "features": [
+          "Alivio específico para codo de tenista y golfista",
+          "Compresión ajustable con refuerzo interior",
+          "Cierre de velcro para ajuste personalizado",
+          "Material transpirable y cómodo para uso prolongado"
+        ]
+      }
+      
+      
+]
