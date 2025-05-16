@@ -223,7 +223,7 @@
     "id": "9",
     "slug": "cutimed-gelocast",
     "name": "Cutimed Gelocast (Gota de Una)",
-    "category": "Compresión y Vascular",
+    "category": "Cuidado de Heridas",
     "images": [
       "/images/cuidado-de-heridas/gelocast.webp"
     ],
@@ -302,6 +302,4 @@
       "Alta tolerancia dérmica, incluso en uso prolongado"
     ]
   }
-  
-  
 ]

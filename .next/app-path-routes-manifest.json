@@ -1,0 +1,9 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/productos/[slug]/page": "/productos/[slug]",
+  "/nosotros/page": "/nosotros",
+  "/contacto/page": "/contacto",
+  "/page": "/",
+  "/productos/page": "/productos"
+}

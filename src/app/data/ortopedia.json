@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "ort-1",
         "slug": "actimove-mitella-cabestrillo",
         "name": "Actimove Mitella Cabestrillo",
         "category": "Ortopedia y Rehabilitación",
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "id": "2",
+        "id": "ort-2",
         "slug": "correa-rodilla-daosport",
         "name": "Correa para Rodilla Daosport",
         "category": "Ortopedia y Rehabilitación",
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "id": "3",
+        "id": "ort-3",
         "slug": "correa-codo-tenista-daosport",
         "name": "Correa Reforzada para Codo de Tenista Daosport",
         "category": "Ortopedia y Rehabilitación",
@@ -75,7 +75,84 @@
           "Cierre de velcro para ajuste personalizado",
           "Material transpirable y cómodo para uso prolongado"
         ]
+      },
+      {
+        "id": "ort-4",
+        "slug": "munequera-boomerang-daosport",
+        "name": "Muñequera Boomerang Daosport",
+        "category": "Ortopedia y Rehabilitación",
+        "images": [
+          "/images/ortopedia/boomerang.png"
+        ],
+        "description": "La muñequera Boomerang Daosport proporciona soporte ligero y compresión para aliviar molestias por esfuerzo repetitivo, esguinces menores o inestabilidad leve. Ideal para actividades deportivas o uso diario.",
+        "keywords": [
+          "muñequera",
+          "boomerang daosport",
+          "soporte de muñeca",
+          "muñeca ortopédica",
+          "dolor de muñeca"
+        ],
+        "brand": "Daosport",
+        "features": [
+          "Diseño en forma de boomerang para mejor ajuste anatómico",
+          "Compresión moderada que estabiliza sin restringir",
+          "Fabricada con material elástico, suave y transpirable",
+          "Fácil de colocar con cierre ajustable de velcro"
+        ]
+      },
+      {
+        "id": "ort-5",
+        "slug": "ferula-tobillo-rocksport-daosport",
+        "name": "Férula para Tobillo Rocksport Daosport",
+        "category": "Ortopedia y Rehabilitación",
+        "images": [
+          "/images/ortopedia/tobillorock.png"
+        ],
+        "description": "La férula para tobillo Rocksport de Daosport proporciona una sujeción firme y anatómica para lesiones moderadas en la articulación del tobillo. Ideal para esguinces, inestabilidad y procesos de recuperación postraumática.",
+        "keywords": [
+          "férula de tobillo",
+          "soporte de tobillo",
+          "ortesis para tobillo",
+          "daosport",
+          "roocksport",
+          "lesiones de tobillo"
+        ],
+        "brand": "Daosport",
+        "features": [
+          "Diseño rígido con almohadillas laterales anatómicas",
+          "Fijación mediante correas ajustables de velcro",
+          "Control de movimientos para una recuperación segura",
+          "Uso ambidiestro (izquierdo o derecho)",
+          "Ligera, cómoda y fácil de colocar"
+        ]
+      },
+      {
+        "id": "ort-6",
+        "slug": "calzon-suspensorio-all-canzol",
+        "name": "Calzón Suspensorio All Canzol",
+        "category": "Ortopedia y Rehabilitación",
+        "images": [
+          "/images/ortopedia/suspensorio.png"
+        ],
+        "description": "El calzón suspensorio All Canzol está diseñado para brindar soporte escrotal en actividades deportivas, tratamientos postoperatorios o condiciones médicas específicas. Fabricado con materiales suaves, transpirables y elásticos que proporcionan comodidad y seguridad durante su uso.",
+        "keywords": [
+          "calzón suspensorio",
+          "soporte escrotal",
+          "all canzol",
+          "ortopedia masculina",
+          "suspensorio deportivo"
+        ],
+        "brand": "All Canzol",
+        "features": [
+          "Diseño anatómico para soporte escrotal",
+          "Material elástico y transpirable",
+          "Ideal para deporte y recuperación",
+          "Fácil de colocar y lavar"
+        ]
       }
+      
+      
+      
       
       
 ]
