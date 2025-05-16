@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "JOBST",
+    "image": "/images/brands/jobst.png"
+  },
+  {
+    "id": 2,
+    "name": "DAONSA",
+    "image": "/images/brands/daonsa.png"
+  },
+  {
+    "id": 3,
+    "name": "Protect",
+    "image": "/images/brands/protec.png"
+  },
+  {
+    "id": 4,
+    "name": "HERGOM",
+    "image": "/images/brands/hergom.png"
+  },
+  {
+    "id": 5,
+    "name": "CHECKATEK",
+    "image": "/images/brands/CHECKATEK.png"
+  },
+  {
+    "id": 6,
+    "name": "Actimove",
+    "image": "/images/brands/actimove.png"
+  },
+  {
+    "id": 7,
+    "name": "Covidien",
+    "image": "/images/brands/covidien.png"
+  },
+  {
+    "id": 8,
+    "name": "CUTIMED",
+    "image": "/images/brands/cutimed.png"
+  }
+]
