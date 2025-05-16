@@ -4,12 +4,15 @@ import { allProducts } from '@/app/utils/products'
 import type { Metadata } from 'next'
 import Image from 'next/image'
 
+/**
+ * Ahora params es Promise<{ slug: string }>
+ */
 type Props = {
-  params: { slug: string }
+  params: Promise<{ slug: string }>
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  // Desempaquetamos params como promesa
+  // await params para obtener el slug
   const { slug } = await params
   const decoded = decodeURIComponent(slug)
 
@@ -41,7 +44,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function Page({ params }: Props) {
-  // También aquí aguardamos params
+  // aquí también hay que await params
   const { slug } = await params
   const decoded = decodeURIComponent(slug)
 
