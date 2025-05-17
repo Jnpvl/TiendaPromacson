@@ -27,7 +27,6 @@ export default function HomeClient({ brands }: Props) {
 
   return (
     <main className="overflow-hidden">
-      <FacebookPopup />
       <section className="relative bg-gradient-to-r from-blue-600 to-blue-800 text-white">
         <div className="absolute inset-0 opacity-20">
           <Image
@@ -89,32 +88,29 @@ export default function HomeClient({ brands }: Props) {
 
       {/* Marcas que distribuimos */}
       <section className="py-12 bg-gray-50">
-  <div className="container mx-auto px-6">
-    <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
-      Marcas que distribuimos
-    </h2>
-    <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
-      {brands.map((brand) => (
-        <div
-          key={brand.id}
-          className="bg-white p-4 rounded-lg shadow-sm flex items-center justify-center transform transition-transform duration-300 hover:-translate-y-2 hover:shadow-md"
-        >
-          <div className="relative w-full h-24 md:h-32">
-            <Image
-              src={brand.image}
-              alt={`Marca: ${brand.name}`}
-              fill
-              className="object-contain"
-            />
+        <div className="container mx-auto px-6">
+          <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
+            Marcas que distribuimos
+          </h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
+            {brands.map((brand) => (
+              <div
+                key={brand.id}
+                className="bg-white p-4 rounded-lg shadow-sm flex items-center justify-center transform transition-transform duration-300 hover:-translate-y-2 hover:shadow-md"
+              >
+                <div className="relative w-full h-24 md:h-32">
+                  <Image
+                    src={brand.image}
+                    alt={`Marca: ${brand.name}`}
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+            ))}
           </div>
         </div>
-      ))}
-    </div>
-  </div>
-</section>
-
-
-
+      </section>
       {/* Visita nuestra tienda */}
       <section className="py-16">
         <div className="container mx-auto px-6">
@@ -167,6 +163,7 @@ export default function HomeClient({ brands }: Props) {
           </div>
         </div>
       </section>
+      <FacebookPopup />
     </main>
   )
 }

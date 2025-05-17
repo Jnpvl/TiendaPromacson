@@ -9,7 +9,6 @@ export default function FacebookPopup() {
     const [show, setShow] = useState(false)
     const facebookUrl = process.env.NEXT_PUBLIC_FACEBOOK_URL!
 
-
     useEffect(() => {
         const timer = setTimeout(() => setShow(true), 2000)
         return () => clearTimeout(timer)
@@ -20,18 +19,20 @@ export default function FacebookPopup() {
     return (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 px-4">
             <div className="bg-white rounded-lg shadow-xl w-full max-w-lg relative overflow-hidden animate-popup">
-                {/* Cerrar */}
+                {/* Cerrar (posición fija dentro del contenedor) */}
                 <button
                     onClick={() => setShow(false)}
-                    className="absolute top-3 right-3 text-gray-500 hover:text-gray-700 z-10"
+                    className="absolute top-2 right-2 bg-black/80 text-white p-1 rounded-full z-20 hover:bg-black"
                     aria-label="Cerrar"
                 >
                     <X size={20} />
                 </button>
 
-                <div className="grid md:grid-cols-2">
+                {/* Contenido en columna en mobile, en fila en desktop */}
+                <div className="flex flex-col md:flex-row">
+
                     {/* Imagen */}
-                    <div className="relative w-full h-48 md:h-full">
+                    <div className="relative w-full h-48 md:h-auto md:w-1/2">
                         <Image
                             src="/images/descuentos.png"
                             alt="Promociones en Facebook"
@@ -40,10 +41,10 @@ export default function FacebookPopup() {
                         />
                     </div>
 
-                    {/* Contenido */}
-                    <div className="p-6 flex flex-col justify-center">
+                    {/* Texto */}
+                    <div className="p-6 flex flex-col justify-center md:w-1/2">
                         <h2 className="text-xl font-bold text-blue-700 mb-2">¡Ofertas exclusivas en Facebook!</h2>
-                        <p className="text-sm text-gray-600 mb-3">
+                        <p className="text-sm text-gray-600 mb-4">
                             Síguenos y descubre descuentos especiales, lanzamientos de nuevos productos y sorteos mensuales para nuestros seguidores.
                         </p>
                         <Link
@@ -59,5 +60,3 @@ export default function FacebookPopup() {
         </div>
     )
 }
-
-// actualiza con tu enlace real

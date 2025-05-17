@@ -1,0 +1,267 @@
+[
+    {
+      "id": "comp-01",
+      "slug": "jobst-sport-20-30-blanco",
+      "name": "Jobst Sport 20-30 mmHg Blanco",
+      "category": "Compresión y Vascular",
+      "images": [
+        "/images/compresion/sportwhite.webp",
+        "/images/compresion/sportwhite.webp",
+        "/images/compresion/sportwhite2.png"
+      ],
+      "description": "Medias deportivas Jobst Sport blancas con compresión terapéutica de 20-30 mmHg, ideales para personas activas. Ayudan a mejorar la circulación y reducir la fatiga.",
+      "keywords": [
+        "jobst sport",
+        "20-30 mmHg",
+        "medias blancas",
+        "compresión media",
+        "uso deportivo"
+      ],
+      "brand": "Jobst",
+      "features": [
+        "Compresión media (20-30 mmHg)",
+        "Altura a la rodilla",
+        "Color blanco",
+        "Tallas: CH, M, G, XG"
+      ]
+    },
+    {
+      "id": "comp-02",
+      "slug": "jobst-sport-20-30-gris",
+      "name": "Jobst Sport 20-30 mmHg Gris",
+      "category": "Compresión y Vascular",
+      "images": [
+        "/images/compresion/sportgrey.webp",
+        "/images/compresion/sportgrey1.webp"
+      ],
+      "description": "Medias deportivas Jobst Sport grises con compresión de 20-30 mmHg. Proporcionan soporte efectivo para la circulación durante el ejercicio.",
+      "keywords": [
+        "jobst sport gris",
+        "medias de compresión",
+        "20-30 mmHg",
+        "uso activo",
+        "circulación"
+      ],
+      "brand": "Jobst",
+      "features": [
+        "Compresión media (20-30 mmHg)",
+        "Color gris",
+        "Altura rodilla",
+        "Tallas: CH, M, G, XG"
+      ]
+    },
+    {
+      "id": "comp-03",
+      "slug": "jobst-sport-15-20-blanco",
+      "name": "Jobst Sport 15-20 mmHg Blanco",
+      "category": "Compresión y Vascular",
+      "images": [
+        "/images/compresion/sportwhite.webp",
+        "/images/compresion/sportwhite.webp",
+        "/images/compresion/sportwhite2.png"
+      ],
+      "description": "Jobst Sport blancas con compresión ligera de 15-20 mmHg. Diseñadas para actividades diarias y deportivas con soporte básico.",
+      "keywords": [
+        "jobst sport",
+        "medias blancas",
+        "15-20 mmHg",
+        "uso deportivo",
+        "compresión ligera"
+      ],
+      "brand": "Jobst",
+      "features": [
+        "Compresión ligera (15-20 mmHg)",
+        "Color blanco",
+        "Altura rodilla",
+        "Tallas: CH, M, G, XG"
+      ]
+    },
+    {
+      "id": "comp-04",
+      "slug": "jobst-sport-15-20-gris",
+      "name": "Jobst Sport 15-20 mmHg Gris",
+      "category": "Compresión y Vascular",
+      "images": [
+        "/images/compresion/sportgrey.webp",
+        "/images/compresion/sportgrey1.webp"
+      ],
+      "description": "Medias Jobst Sport grises con compresión ligera de 15-20 mmHg. Favorecen la circulación y ayudan a reducir la fatiga muscular.",
+      "keywords": [
+        "jobst sport gris",
+        "compresión ligera",
+        "15-20 mmHg",
+        "uso deportivo",
+        "medias compresivas"
+      ],
+      "brand": "Jobst",
+      "features": [
+        "Compresión ligera (15-20 mmHg)",
+        "Color gris",
+        "Altura rodilla",
+        "Tallas: CH, M, G, XG"
+      ]
+    },
+    {
+      "id": "relief-01",
+      "slug": "jobst-relief-20-30-rodilla",
+      "name": "Jobst Relief Rodilla 20-30 mmHg",
+      "category": "Compresión y Vascular",
+      "images": [
+          "/images/compresion/reliefrodilla1.webp",
+        "/images/compresion/reliefrodilla.webp",
+        "/images/compresion/reliefrodilla2.webp"
+      ],
+      "description": "Medias Jobst Relief con compresión terapéutica de 20-30 mmHg, altura a la rodilla, disponibles con y sin punta. Ideales para tratar várices o insuficiencia venosa.",
+      "keywords": [
+        "jobst relief",
+        "rodilla",
+        "20-30 mmHg",
+        "con punta",
+        "sin punta",
+        "compresión media"
+      ],
+      "brand": "Jobst",
+      "features": [
+        "Compresión media (20-30 mmHg)",
+        "Altura: rodilla",
+        "Color beige piel",
+        "Disponibles con y sin punta",
+        "Tallas: CH, M, G, XG"
+      ]
+    },
+    {
+      "id": "relief-02",
+      "slug": "jobst-relief-20-30-muslo",
+      "name": "Jobst Relief Muslo 20-30 mmHg",
+      "category": "Compresión y Vascular",
+      "images": [
+          "/images/compresion/reliefmuslo.webp",
+        "/images/compresion/reliefrodilla.webp",
+        "/images/compresion/reliefmuslo1.jpg"
+      ],
+      "description": "Medias Jobst Relief hasta el muslo, con compresión de 20-30 mmHg. Ayudan en casos de insuficiencia venosa profunda. Disponibles con y sin punta.",
+      "keywords": [
+        "jobst muslo",
+        "relief jobst",
+        "20-30 mmHg",
+        "media larga",
+        "compresión"
+      ],
+      "brand": "Jobst",
+      "features": [
+        "Compresión media (20-30 mmHg)",
+        "Altura: muslo",
+        "Color beige piel",
+        "Disponibles con y sin punta",
+        "Tallas: CH, M, G, XG"
+      ]
+    },
+    {
+      "id": "relief-03",
+      "slug": "jobst-relief-15-20-rodilla",
+      "name": "Jobst Relief Rodilla 15-20 mmHg",
+      "category": "Compresión y Vascular",
+      "images": [
+          "/images/compresion/reliefrodilla2.webp",
+        "/images/compresion/reliefrodilla.webp",
+        "/images/compresion/reliefrodilla1.webp"
+      ],
+      "description": "Medias Jobst Relief para rodilla, compresión ligera (15-20 mmHg), recomendadas para prevención y alivio de síntomas leves de insuficiencia venosa. Disponibles con y sin punta.",
+      "keywords": [
+        "jobst relief",
+        "15-20 mmHg",
+        "compresión ligera",
+        "rodilla",
+        "medias compresivas"
+      ],
+      "brand": "Jobst",
+      "features": [
+        "Compresión ligera (15-20 mmHg)",
+        "Rodilla",
+        "Color beige piel",
+        "Con y sin punta",
+        "Tallas: CH, M, G, XG"
+      ]
+    },
+    {
+      "id": "relief-04",
+      "slug": "jobst-relief-15-20-muslo",
+      "name": "Jobst Relief Muslo 15-20 mmHg",
+      "category": "Compresión y Vascular",
+      "images": [
+          "/images/compresion/reliefmuslo.webp",
+        "/images/compresion/reliefrodilla.webp",
+        "/images/compresion/reliefmuslo1.jpg"
+      ],
+      "description": "Medias Jobst Relief de compresión baja (15-20 mmHg) hasta el muslo. Proveen soporte leve para mejorar la circulación. Disponibles con o sin punta.",
+      "keywords": [
+        "jobst muslo",
+        "compresión baja",
+        "15-20 mmHg",
+        "relief jobst"
+      ],
+      "brand": "Jobst",
+      "features": [
+        "Compresión baja (15-20 mmHg)",
+        "Altura: muslo",
+        "Color beige piel",
+        "Con y sin punta",
+        "Tallas: CH, M, G, XG"
+      ]
+    },
+    
+        {
+          "id": "relief-05a",
+          "slug": "jobst-relief-pantimedia-15-20",
+          "name": "Jobst Relief Pantimedia - Compresión 15-20 mmHg",
+          "category": "Compresión y Vascular",
+          "images": [
+            "/images/compresion/panti.webp"
+
+          ],
+          "description": "Pantimedia Jobst Relief con compresión baja (15-20 mmHg), ideal para soporte diario y prevención de problemas venosos. Proporciona cobertura completa desde el pie hasta la cintura.",
+          "keywords": [
+            "pantimedia jobst",
+            "relief 15-20 mmHg",
+            "compresión baja",
+            "media completa",
+            "soporte diario"
+          ],
+          "brand": "Jobst",
+          "features": [
+            "Compresión baja 15-20 mmHg",
+            "Diseño pantimedia (pierna completa)",
+            "Color beige piel",
+            "Tallas: CH, M, G, XG",
+            "Ideal para prevención de várices"
+          ]
+        },
+        {
+          "id": "relief-05b",
+          "slug": "jobst-relief-pantimedia-20-30",
+          "name": "Jobst Relief Pantimedia - Compresión 20-30 mmHg",
+          "category": "Compresión y Vascular",
+          "images": [
+            "/images/compresion/panti.webp"
+          ],
+          "description": "Pantimedia Jobst Relief de compresión media (20-30 mmHg), recomendada para insuficiencia venosa moderada y tratamientos postoperatorios. Brinda compresión uniforme desde el pie hasta la cintura.",
+          "keywords": [
+            "pantimedia jobst",
+            "relief 20-30 mmHg",
+            "compresión media",
+            "media terapéutica",
+            "soporte completo"
+          ],
+          "brand": "Jobst",
+          "features": [
+            "Compresión media 20-30 mmHg",
+            "Diseño pantimedia para cobertura total",
+            "Color beige piel",
+            "Tallas: CH, M, G, XG",
+            "Uso terapéutico y clínico"
+          ]
+        }
+      
+      
+  ]
+  
