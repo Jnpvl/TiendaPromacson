@@ -15,29 +15,12 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Mi Empresa – Landing',
-  description: 'Bienvenido a la landing de Mi Empresa. Conoce quiénes somos y descubre nuestros productos.',
-  openGraph: {
-    title: 'Mi Empresa – Landing',
-    description: 'Bienvenido a la landing de Mi Empresa. Conoce quiénes somos y descubre nuestros productos.',
-    url: 'https://tudominio.com',
-    siteName: 'Mi Empresa',
-    images: [
-      {
-        url: 'https://tudominio.com/images/og-image.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'Mi Empresa',
-      },
-    ],
-    locale: 'es_ES',
-    type: 'website',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Mi Empresa – Landing',
-    description: 'Bienvenido a la landing de Mi Empresa. Conoce quiénes somos y descubre nuestros productos.',
-    images: ['https://tudominio.com/images/twitter-card.jpg'],
+  title: 'Tienda Promacson',
+  description: 'Tu tienda de confianza para productos de calidad',
+  icons: {
+    icon: '/images/promacson-logo.png',
+    shortcut: '/images/promacson-logo.png',
+    apple: '/images/promacson-logo.png',
   },
 }
 
@@ -48,11 +31,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
+     <head/>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <Header />
-        <main className="container mx-auto px-4 py-8">
+        <div className="container mx-auto px-4 py-8">
           {children}
-        </main>
+        </div>
         <Footer />
       </body>
     </html>

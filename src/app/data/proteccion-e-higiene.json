@@ -1,0 +1,123 @@
+[
+  {
+    "id": "p-1",
+    "slug": "gasas-no-esteriles-200",
+    "name": "Gasas No Estériles (Paquete de 200)",
+    "category": "Protección e Higiene",
+    "images": [
+      "/images/proteccion-e-higiene/gasa.webp"
+    ],
+    "description": "Paquete de 200 gasas no estériles de algodón, útiles para limpieza, absorción de secreciones y protección de heridas menores en procedimientos no invasivos.",
+    "keywords": [
+      "gasas no estériles",
+      "paquete 200",
+      "material de curación",
+      "algodón absorbente",
+      "uso clínico general"
+    ],
+    "brand": "Protec",
+    "features": [
+      "Contenido: 200 piezas",
+      "Hechas de algodón altamente absorbente",
+      "No estériles (uso en ambientes no quirúrgicos)",
+      "Aptas para curaciones, limpiezas y protección básica"
+    ]
+  },
+  {
+    "id": "p-2",
+    "slug": "gasa-esteril-sugasa",
+    "name": "Gasa Estéril Sugasa",
+    "category": "Protección e Higiene",
+    "images": [
+      "/images/proteccion-e-higiene/sugasa.png"
+    ],
+    "description": "Gasas estériles marca Sugasa empacadas individualmente, diseñadas para curaciones limpias en procedimientos quirúrgicos o heridas abiertas.",
+    "keywords": [
+      "gasa estéril",
+      "sugasa",
+      "curación de heridas",
+      "material quirúrgico",
+      "uso hospitalario"
+    ],
+    "brand": "Sugasa",
+    "features": [
+      "Estériles, de un solo uso",
+      "Empaque individual",
+      "Algodón suave y absorbente",
+      "Recomendadas para heridas quirúrgicas o profundas"
+    ]
+  },
+  {
+    "id": "p-3",
+    "slug": "guantes-esteriles-protec",
+    "name": "Guantes de Exploración Estériles Protec",
+    "category": "Protección e Higiene",
+    "images": [
+      "/images/proteccion-e-higiene/gesteril.webp"
+    ],
+    "description": "Guantes estériles de látex marca Protec, diseñados para procedimientos médicos que requieren condiciones higiénicas controladas.",
+    "keywords": [
+      "guantes estériles",
+      "exploración médica",
+      "guantes protec",
+      "procedimientos quirúrgicos",
+      "higiene médica"
+    ],
+    "brand": "Protec",
+    "features": [
+      "Látex natural de alta elasticidad",
+      "Presentación empacada por par",
+      "Diseño ambidiestro",
+      "Textura suave para mayor sensibilidad"
+    ]
+  },
+  {
+    "id": "p-4",
+    "slug": "guantes-no-esteriles-protec",
+    "name": "Guantes de Exploración No Estériles Protec",
+    "category": "Protección e Higiene",
+    "images": [
+      "/images/proteccion-e-higiene/gnoesteril.webp"
+    ],
+    "description": "Guantes no estériles marca Protec, recomendados para exámenes generales y tareas de protección básica en clínicas o uso personal.",
+    "keywords": [
+      "guantes no estériles",
+      "guantes para exploración",
+      "guantes médicos",
+      "protección de manos",
+      "material de curación"
+    ],
+    "brand": "Protec",
+    "features": [
+      "Fabricados en látex de alta resistencia",
+      "No estériles, para uso general",
+      "Diseño ambidiestro",
+      "Disponibles en varias tallas"
+    ]
+  },
+  {
+    "id": "p-5",
+    "slug": "cubrebocas-protec",
+    "name": "Cubrebocas Desechable Protec",
+    "category": "Protección e Higiene",
+    "images": [
+      "/images/proteccion-e-higiene/cubrebocas.webp"
+    ],
+    "description": "Cubrebocas Protec de 3 capas con diseño desechable para uso médico o personal. Brinda protección contra agentes infecciosos, bacterias y partículas.",
+    "keywords": [
+      "cubrebocas protec",
+      "mascarilla médica",
+      "desechable",
+      "protección respiratoria",
+      "3 capas"
+    ],
+    "brand": "Protec",
+    "features": [
+      "3 capas: filtro, capa intermedia y externa",
+      "Diseño ergonómico y cómodo",
+      "Elásticos suaves que no irritan",
+      "Uso médico o comunitario",
+      "No reutilizable"
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+    {
+      "id": "m-1",
+      "slug": "andadera-plegable-ruedas",
+      "name": "Andadera de Aluminio Plegable con Ruedas",
+      "category": "Movilidad y Ayudas Técnicas",
+      "images": [
+        "/images/movilidad-ayudas-tecnicas/andR1.png",
+        "/images/movilidad-ayudas-tecnicas/andR2.png",
+        "/images/movilidad-ayudas-tecnicas/andR3.png"
+      ],
+      "description": "Andadera de aluminio ligera y plegable con ruedas frontales para facilitar la movilidad. Ideal para usuarios que requieren soporte adicional al caminar.",
+      "keywords": [
+        "andadera con ruedas",
+        "movilidad asistida",
+        "ayuda para caminar",
+        "andadera plegable",
+        "aluminio ligero"
+      ],
+      "brand": "Daonsa",
+      "features": [
+        "Estructura de aluminio resistente",
+        "Ruedas frontales para fácil desplazamiento",
+        "Plegable para almacenamiento sencillo",
+        "Altura ajustable",
+        "Empuñaduras ergonómicas"
+      ]
+    },
+    {
+      "id": "m-2",
+      "slug": "andadera-plegable-reciproca",
+      "name": "Andadera de Aluminio Recíproca Plegable",
+      "category": "Movilidad y Ayudas Técnicas",
+      "images": [
+        "/images/movilidad-ayudas-tecnicas/and1.png",
+        "/images/movilidad-ayudas-tecnicas/and2.png",
+        "/images/movilidad-ayudas-tecnicas/and3.png"
+      ],
+      "description": "Andadera recíproca de aluminio con diseño plegable. Proporciona estabilidad y permite caminar de forma alternada, simulando el movimiento natural.",
+      "keywords": [
+        "andadera recíproca",
+        "plegable",
+        "aluminio ligero",
+        "rehabilitación",
+        "movilidad asistida"
+      ],
+      "brand": "Daonsa",
+      "features": [
+        "Mecanismo recíproco para mayor control",
+        "Plegado fácil para transporte",
+        "Estructura liviana de aluminio",
+        "Altura ajustable",
+        "Ideal para personas en rehabilitación"
+      ]
+    },
+    {
+      "id": "m-3",
+      "slug": "aumento-para-sanitario",
+      "name": "Aumento para Sanitario",
+      "category": "Movilidad y Ayudas Técnicas",
+      "images": [
+        "/images/movilidad-ayudas-tecnicas/sanitario.png",
+        "/images/movilidad-ayudas-tecnicas/sanitario1.png",
+        "/images/movilidad-ayudas-tecnicas/sanitario3.png"
+      ],
+      "description": "Dispositivo de aumento para sanitario que eleva la altura del asiento para facilitar el uso a personas con movilidad reducida o en recuperación postoperatoria.",
+      "keywords": [
+        "elevador sanitario",
+        "asiento elevado",
+        "movilidad reducida",
+        "ayuda técnica",
+        "rehabilitación baño"
+      ],
+      "brand": "Daonsa",
+      "features": [
+        "Fácil de instalar y retirar",
+        "Compatible con sanitarios estándar",
+        "Superficie antideslizante",
+        "Diseñado para brindar mayor independencia",
+        "Material resistente y fácil de limpiar"
+      ]
+    },
+    {
+      "id": "m-4",
+      "slug": "baston-con-asiento",
+      "name": "Bastón con Asiento",
+      "category": "Movilidad y Ayudas Técnicas",
+      "images": [
+        "/images/movilidad-ayudas-tecnicas/asiento.png",
+        "/images/movilidad-ayudas-tecnicas/asiento1.png"
+      ],
+      "description": "Bastón multifuncional con asiento plegable integrado. Ofrece soporte para caminar y permite descansar en cualquier lugar de forma segura.",
+      "keywords": [
+        "bastón con asiento",
+        "bastón plegable",
+        "ayuda para caminar",
+        "movilidad",
+        "descanso portátil"
+      ],
+      "brand": "Daonsa",
+      "features": [
+        "Funciona como bastón y asiento",
+        "Asiento plegable integrado",
+        "Estructura metálica ligera",
+        "Altura ajustable",
+        "Ideal para largas caminatas o espera"
+      ]
+    },
+    {
+      "id": "m-5",
+      "slug": "comodo-auxiliar-3-en-1",
+      "name": "Cómodo Auxiliar 3 en 1",
+      "category": "Movilidad y Ayudas Técnicas",
+      "images": [
+        "/images/movilidad-ayudas-tecnicas/comodo3.png",
+        "/images/movilidad-ayudas-tecnicas/comodo.png"
+      ],
+      "description": "Cómodo auxiliar 3 en 1: funciona como silla de baño, elevador de inodoro o silla de noche. Diseñado para personas con movilidad reducida.",
+      "keywords": [
+        "cómodo sanitario",
+        "silla de baño",
+        "auxiliar para inodoro",
+        "movilidad limitada",
+        "ayuda técnica 3 en 1"
+      ],
+      "brand": "Daonsa",
+      "features": [
+        "Tres funciones: inodoro portátil, asiento elevado y silla de baño",
+        "Estructura robusta y estable",
+        "Altura ajustable",
+        "Incluye cubeta extraíble",
+        "Fácil de limpiar y transportar"
+      ]
+    }
+  ]
+  

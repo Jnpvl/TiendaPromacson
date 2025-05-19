@@ -43,7 +43,9 @@ export default function ProductosClient({ products }: Props) {
 
   return (
     <main className="container mx-auto px-6 py-16 space-y-12">
-
+  <h1 className="text-3xl font-bold text-gray-800 text-center mb-8">
+    Catálogo de Productos
+  </h1>
       {/* Categorías */}
       <section className="grid grid-cols-3 md:grid-cols-5 gap-4">
         {categories.map((cat) => (

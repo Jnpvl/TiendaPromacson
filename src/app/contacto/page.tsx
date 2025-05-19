@@ -1,32 +1,31 @@
 import type { Metadata } from 'next'
 import ContactoClient from './contactoClient'
 
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://tiendapromacson.com'
+
 export const metadata: Metadata = {
-  title: 'Promacson – Contacto',
-  description: 'Contáctanos directamente vía teléfono o correo electrónico para cualquier consulta.',
-  keywords: ['contacto', 'Promacson', 'material de curación', 'soporte'],
-  authors: [{ name: 'Promacson', url: 'https://tudominio.com/nosotros' }],
+  title: 'Tienda Promacson – Contacto',
+  description: 'Contáctanos directamente vía teléfono o correo electrónico para cualquier consulta o asistencia personalizada.',
+  keywords: ['contacto', 'Tienda Promacson', 'material de curación', 'soporte médico', 'ayuda clínica'],
+  authors: [{ name: 'Tienda Promacson', url: `${baseUrl}/nosotros` }],
   openGraph: {
-    title: 'Promacson – Contacto',
-    description: 'Contáctanos directamente vía teléfono o correo electrónico para cualquier consulta.',
-    url: 'https://tudominio.com/contacto',
-    siteName: 'Promacson',
+    title: 'Tienda Promacson – Contacto',
+    description: 'Contáctanos directamente vía teléfono o correo electrónico para cualquier consulta o asistencia personalizada.',
+    url: `${baseUrl}/contacto`,
+    siteName: 'Tienda Promacson',
     images: [
       {
-        url: 'https://tudominio.com/images/og-contacto.jpg',
+        url: `${baseUrl}/images/og-contacto.jpg`,
         width: 1200,
         height: 630,
-        alt: 'Contacto Promacson'
+        alt: 'Contacto Tienda Promacson'
       }
     ],
     locale: 'es_ES',
     type: 'website'
   },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Promacson – Contacto',
-    description: 'Contáctanos directamente vía teléfono o correo electrónico para cualquier consulta.',
-    images: ['https://tudominio.com/images/twitter-contacto.jpg']
+  alternates: {
+    canonical: `${baseUrl}/contacto`
   },
   other: {
     viewport: 'width=device-width, initial-scale=1',

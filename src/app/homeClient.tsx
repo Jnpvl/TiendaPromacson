@@ -4,7 +4,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 import {
   ArrowRight,
-  CheckCircle,
   MapPin,
   Phone,
   ShoppingBag,
@@ -86,7 +85,6 @@ export default function HomeClient({ brands }: Props) {
         </div>
       </section>
 
-      {/* Marcas que distribuimos */}
       <section className="py-12 bg-gray-50">
         <div className="container mx-auto px-6">
           <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
@@ -111,7 +109,6 @@ export default function HomeClient({ brands }: Props) {
           </div>
         </div>
       </section>
-      {/* Visita nuestra tienda */}
       <section className="py-16">
         <div className="container mx-auto px-6">
           <div className="bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl overflow-hidden">

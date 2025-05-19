@@ -6,6 +6,8 @@ import Link from 'next/link'
 import { ArrowLeft } from 'lucide-react'
 import { GaleriaProducto } from '@/app/components/GaleriaProducto'
 
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://tiendapromacson.com'
+
 type Props = {
   params: Promise<{ slug: string }>
 }
@@ -17,13 +19,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!producto) {
     return {
-      title: 'Producto no encontrado – Promacson',
+      title: 'Producto no encontrado – Tienda Promacson',
       description: 'Este producto no se encuentra en nuestro catálogo.',
+      alternates: {
+        canonical: `${baseUrl}/productos`
+      }
     }
   }
 
   return {
-    title: `Promacson – ${producto.name}`,
+    title: `Tienda Promacson – ${producto.name}`,
     description: producto.description,
     keywords: producto.keywords,
     openGraph: {
@@ -38,6 +43,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         },
       ],
     },
+    alternates: {
+      canonical: `${baseUrl}/productos/${producto.slug}`
+    },
+    other: {
+      viewport: 'width=device-width, initial-scale=1',
+      robots: 'index, follow'
+    }
   }
 }
 
